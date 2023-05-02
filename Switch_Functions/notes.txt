@@ -1,0 +1,2 @@
+There is no use of continue inside switch
+If there is infinite loop and we switch case we can use exit() inside switch to break the loop

@@ -1,0 +1,3 @@
+In case of bigger numbers if we do left shift it will convert that number to negative number 
+We can intialize , set condition, increment/decrement multiple variables in one for loop by separating them from comma
+
