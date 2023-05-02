@@ -1,0 +1,5 @@
+how to initialize the whole array with any value using one line
+1.) int num[5]={ [0 . . . 4 ] = 3 };  // num = { 3, 3, 3, 3, 3}
+2.) We may also ignore the size of array:
+int num[  ]={ [0 . . . 4 ] = 3 };    // num = { 3, 3, 3, 3, 3}
+
