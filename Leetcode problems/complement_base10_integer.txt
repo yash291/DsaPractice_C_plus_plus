@@ -1,0 +1,13 @@
+The complement of an integer is the integer you get when you flip all the 0's to 1's and all the 1's to 0's 
+in its binary representation.
+
+For example, The integer 5 is "101" in binary and its complement is "010" which is the integer 2.
+Given an integer n, return its complement.
+
+How to make a mask:
+ Step 1: run your loop in the given number untill the number becomes zero
+ Step 2: count how many iterations it ran
+ Step 3: initialize a mask with zero
+ Step 4: insert one at last of mask by doing left shit by 1 and or operation
+
+ 

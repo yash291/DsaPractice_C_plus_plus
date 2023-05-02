@@ -1,0 +1,14 @@
+If we want to check that any bit is 0 or 1 then if we do bitwise and with 1
+and if the result is 0 then bit will be 0 else 1
+
+To find the right most bit we can do and with the 1 then we can find the right most bit
+
+To make the number with the same flow i.e to make 123 from digit 1,2,3:
+    ans = (digit * 10) + ans
+To make the reverse:
+    ans = (digit * pow(10,i)) + ans
+
+If we are dealing with digits then we need to make % and / use
+If we are dealing with bits then we need to make & and >> use.
+
+
