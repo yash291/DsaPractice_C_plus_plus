@@ -32,5 +32,7 @@ int main(){
     for(int i = 0; i < n; i++)
         cout << fifth[i] << " ";
     
+    char ch[5];
+     
     return 0;
 }
