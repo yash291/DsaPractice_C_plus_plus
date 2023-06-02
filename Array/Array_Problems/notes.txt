@@ -1,0 +1,7 @@
+If we do xor of same elements then answer will be zero:
+so in find Unique question we follow the same approach :
+3 ^ 3 will be 0 and which ever number is coming once that will be our answer
+because ultimately 0 xor with any other number than 0 will give that number only
+
+Vector is a dynamic array.
+
